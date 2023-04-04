@@ -1,0 +1,47 @@
+
+.nav-main {
+  margin-left: 40px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.path-body {
+  margin-left: 40px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.back-image {
+  opacity: 0.9;
+}
+
+.webName {
+  margin-left: 20px;
+  font-size: 1.6rem;
+  font-family: "McLaren", cursive;
+  color:lightseagreen;
+}
+
+.webName:hover {
+  color: lightseagreen;
+  text-shadow: 100px;
+}
+
+.webBars {
+  position: absolute;
+  right: 2%;
+  font-family: "McLaren", cursive;
+}
+
+.bar {
+  margin-right: 40px;
+}
+
+.nav-link {
+  color: floralwhite;
+}
+
+.nav-link:hover {
+  text-shadow: 100px;
+  color: floralwhite;
+}
